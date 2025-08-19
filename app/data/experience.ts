@@ -12,7 +12,7 @@ export interface ExperienceEntry {
 }
 
 export const experienceData: ExperienceEntry[] = [
-    {
+  {
     role: "NTU PEAK Participant",
     company: "Singtel",
     date: "July 2025",
@@ -28,7 +28,7 @@ export const experienceData: ExperienceEntry[] = [
         url: "https://cyberteam2-detection-workflow.vercel.app/"
       }
     ],
-    skills: ["Data analysis", "Data Orchestration", "Azure Services", "Docker"]
+    skills: ["Market Research", "UI/UX Workflow", "Teamwork", "Presentation"]
   },
   {
     role: "Data Science Intern",
