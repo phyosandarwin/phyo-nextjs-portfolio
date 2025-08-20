@@ -35,9 +35,9 @@ export const experienceData: ExperienceEntry[] = [
     company: "DSBJ Pte. Ltd.",
     date: "Dec 2024 - June 2025",
     description: [
-      "Designed and deployed an automated end-to-end data pipeline for Accounts Receivables Forecasting using data orchestration tools",
-      "Explored efficient machine learning algorithms to address business use cases",
-      "Explored prompt engineering techniques and document extraction libraries for proof-of-concept analyses on complex unstructured datasets"
+      "Deployed and containerised a fully automated, end-to-end AI prediction pipeline for Accounts Receivables Forecasting using Dagster and Docker, presented to C-suite finance leaders",
+      "Utilised Azure OpenAI models for prompt engineering and material taxonomy categorisation",
+      "Conducted proof-of-concept analyses with efficient machine learning clustering algorithms for procurement, enabling item similarity insights"
     ],
     logo: "/logos/dsbj_logo.png",
     links: [
@@ -54,8 +54,8 @@ export const experienceData: ExperienceEntry[] = [
     date: "Sept 2024 - June 2025",
     description: [
       "Supervised by Assistant Professor Edwin Chng",
-      "Evaluated the performance and feasibility of fine-tuned video action detection PyTorch model (SlowFast R50) in accurate classification of autism behaviours.",
-      "Explored pose-detection algorithms to detect behaviours in video dataset of children with autism spectrum disorder."
+      "Fine-tuned video action detection model (SlowFast R50) with PyTorch to classify autism behaviours",
+      "Explored pose-detection algorithms on video datasets of children with autism spectrum disorder"
     ],
     logo: "/logos/ureca_logo.jpg",
     links: [
@@ -72,9 +72,8 @@ export const experienceData: ExperienceEntry[] = [
     date: "Sept 2023 - June 2024",
     description: [
       "Supervised by Assistant Professor Farhan Ali",
-      "Pre-processed EEG brain signal data and transformed to spatiotemporal representations.",
-      "Implemented transfer learning with pretrained 3D-CNN (MobileNet V2) PyTorch model.",
-      "Evaluated the classification performance of epistemic emotions."
+      "Pre-processed EEG brain signal data and transformed into spatiotemporal representations",
+      "Applied transfer learning with pretrained 3D-CNN (MobileNet V2) PyTorch model for epistemic emotion classification"
     ],
     logo: "/logos/ureca_logo.jpg",
     links: [

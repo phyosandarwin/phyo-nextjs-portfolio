@@ -13,7 +13,7 @@ export const educationData: EducationEntry[] = [
     title: "Bachelor of Computing (Hons) in Computer Science",
     institution: "Nanyang Technological University (NTU), Singapore",
     date: "Aug 2022 - Present",
-    description: "Expecting First Class Honors. Doing relevant coursework in AI, data science, and software engineering.",
+    description: "Expected Graduation in June 2026. Expecting First Class Honours. Doing relevant coursework in AI, data science, and software engineering.",
     logo: "/logos/ntu_logo.png",
     courses: [
       "Artificial Intelligence",

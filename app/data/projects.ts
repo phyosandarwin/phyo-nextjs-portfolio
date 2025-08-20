@@ -43,7 +43,7 @@ export const projectsData: ProjectEntry[] = [
   {
     id: 4,
     title: 'Emotion Analysis with Deep Learning on Brain Signals',
-    description: 'Undergraduate Research project focused on deep learning techniques to analyse epistemic emotions across age groups with brain signal data.',
+    description: 'Undergraduate Research project focused on deep learning techniques to analyse epistemic emotions across age groups using brain signal data.',
     image: '/proj_thumbnail/ureca_project1.png',
     technologies: ['PyTorch', 'EEG', '3D-CNN', 'Transfer Learning'],
     liveUrl: 'https://youtu.be/NnWvkuF64uQ',
@@ -53,7 +53,7 @@ export const projectsData: ProjectEntry[] = [
   {
     id: 5,
     title: 'AutoInsights AutoML Web App',
-    description: 'A simple interface to automate data science workflows starting from EDA to model deployment. Currently only handles classification and regression tasks.',
+    description: 'A user-friendly AutoML app interface to automate data science workflows ranging from EDA to model deployment. Currently only handles classification and regression tasks.',
     image: '/proj_thumbnail/autoinsights_logo.png',
     technologies: ['Streamlit', 'Pycaret', 'AutoML', 'Python'],
     liveUrl: 'https://auto-insights.streamlit.app/',

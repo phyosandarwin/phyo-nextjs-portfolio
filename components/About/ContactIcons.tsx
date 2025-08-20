@@ -89,7 +89,7 @@ export function ContactIcons() {
           <Tooltip>
             <TooltipTrigger asChild>
               <a
-                href="/resume.pdf"
+                href="/docs/Phyo Sandar Win_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group w-10 h-10 flex items-center justify-center rounded-lg relative overflow-hidden transition-all duration-300 shadow-lg"
